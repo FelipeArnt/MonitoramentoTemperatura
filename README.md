@@ -28,16 +28,3 @@ Este projeto é um sistema simples de monitoramento de temperatura usando um Ard
 5. Abra o **Monitor Serial** (Ctrl+Shift+M) para visualizar a temperatura em tempo real.
 
 ---
-
-## 🧠 Como o Código Funciona
-
-### **Estrutura do Código**
-O código é dividido em duas partes principais:
-1. **`setup()`:** Configura o pino do LED como saída e inicializa a comunicação serial.
-2. **`loop()`:** Lê o valor do sensor, converte-o para temperatura, exibe no monitor serial e aciona o LED se a temperatura ultrapassar o limite.
-
-### **Detalhes do Código**
-- **Leitura do Sensor:**
-  ```cpp
-  int sensorValue = analogRead(A0);  // Lê o valor do sensor no pino A0
-  float temperature = (sensorValue * 5.0 / 1024.0) * 100.0;  // Converte para temperatura
