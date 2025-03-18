@@ -9,7 +9,7 @@ Este projeto é um sistema simples de monitoramento de temperatura usando um Ard
 
 ## 🛠️ Componentes utilizados
 - **Arduino Uno** (ou qualquer outro modelo compatível)
-- **Sensor de temperatura** (ex: LM35, TMP36 ou termistor)
+- **Sensor de temperatura** (LM35)
 - **LED** (para o alerta de temperatura alta)
 - **Resistor** (220Ω para o LED)
 - **Jumpers e protoboard** (para conexões)
