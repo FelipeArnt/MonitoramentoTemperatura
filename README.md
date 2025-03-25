@@ -22,12 +22,3 @@ Este projeto é um sistema simples de monitoramento de temperatura usando um Ard
 3. Alimente o circuito com o Arduino.
 
 ---
-
-## 🚀 Como Usar
-1. Conecte o Arduino ao computador via USB.
-2. Abra o código no Arduino IDE.
-3. Selecione a placa correta (`Arduino Uno`) e a porta serial.
-4. Carregue o código no Arduino.
-5. Abra o **Monitor Serial** (Ctrl+Shift+M) para visualizar a temperatura em tempo real.
-
----
