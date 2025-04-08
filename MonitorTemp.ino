@@ -10,7 +10,7 @@ void setup() {
 
 void loop() {
     int valorSensor = analogRead(A0);  // Lê o valor do sensor no pino A0
-    float temperatura = (valorSensor * 5.0 / 1024.0) * 100.0;  // Converte para temperatura
+    float temperatura = (valorSensor * 5.0 / 1024.0) * 100.0;  // Converte para temperatura em Celsius
 
     Serial.print("Temperatura: ");
     Serial.println(temperatura);
