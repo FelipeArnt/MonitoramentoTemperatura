@@ -22,3 +22,7 @@ Este projeto é um sistema simples de monitoramento de temperatura usando um Ard
 3. Alimente o circuito com o Arduino.
 
 ---
+
+# 🏗️ Montagem
+
+- TO-DO - 
