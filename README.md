@@ -1,4 +1,4 @@
-<h1 align="center"> 🌡️ Monitoramento de Temperatura com Arduino </h1>
+# 🌡️ Monitoramento de Temperatura com Arduino
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
@@ -22,6 +22,8 @@
 
 ---
 
-# 🏗️ Montagem
+# TO-DO 
 
-- | TO-DO |
+- [ ] 🏗️ Montagem
+- [ ] 📷 Figuras 
+- [ ] 💻 Testes
